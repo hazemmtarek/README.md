@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hazem Tarek</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Automation Specialist</h3>
 
-- 🌱 I’m currently learning **SQL,Python,Power BI**
+- 🌱 I’m currently learning **Automation,SQL,Python,Power BI**
 
 - 💬 Ask me about **SQL, Python, Power BI, Excel**
 
 - 📫 How to reach me **hazemtarek1001.at@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ByPl2vovfUMypNZ-_EtPDRY-t7S_qG8b/view?usp=drive_link](https://drive.google.com/file/d/1ByPl2vovfUMypNZ-_EtPDRY-t7S_qG8b/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zVffcMQiduLSo4symg4r0S7kC4Ojxcn9/view?usp=sharing](https://drive.google.com/file/d/1zVffcMQiduLSo4symg4r0S7kC4Ojxcn9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
